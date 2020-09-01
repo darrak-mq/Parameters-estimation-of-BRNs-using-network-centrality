@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 19 11:27:08 2019
-
-@author: dmoin.msbi17rcms
-"""
-
 from tkinter import *
 import tkinter as tk
 import networkx as nx
